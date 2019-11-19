@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+
+  <title>Chinerie Database</title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <header>
+
+  </header>
+
+
+  <section>
+
+  </section>
+
+  <script>
+    var header = document.querySelector('header');
+    var section = document.querySelector('section');
+    var requestURL = 'https://raw.githubusercontent.com/ComputerGraphicClub/Chinerie/master/database_good.json';
+    var request = new XMLHttpRequest();
+    request.open('GET', requestURL);
+    request.responseType = 'json';
+    request.send();
+
+    request.onload = function() {
+      var CDTdatabase = request.response;
+      groupInformation(CDTdatabase);
+      showPost(CDTdatabase);
+    }
+
+    function groupInformation(jsonObj) {
+      var myH1 = document.createElement('h1');
+      myH1.textContent = jsonObj['groupName'];
+      header.appendChild(myH1);
+
+      var myPara = document.createElement('p');
+      myPara.textContent = 'Hometown: ' + jsonObj['homeTown'] + jsonObj['formed'];
+      header.appendChild(myPara);
+    }
+
+    function showPost(jsonObj) {
+  var post = jsonObj['post'];
+
+  for (var i = 0; i < post.length; i++) {
+    var myArticle = document.createElement('article');
+    var info = document.createElement('div');
+    info.setAttribute('class', 'note');
+    var myH2 = document.createElement('h2');
+    var myPara1 = document.createElement('p');
+    var video = document.createElement('iframe');
+
+
+    myH2.textContent = post[i].postReact;
+    myPara1.textContent = post[i].postComment;
+    video.src = "http://www.youtube.com/embed/"+post[i].youtubeID;
+
+
+
+    myArticle.appendChild(myH2);
+    myArticle.appendChild(myPara1);
+    myArticle.appendChild(video);
+
+
+    info.appendChild(myH2);
+    info.appendChild(myPara1);
+
+    section.appendChild(myArticle);
+    section.appendChild(info);
+
+  }
+}
+
+
+  </script>
+</body>
+
+</html>
