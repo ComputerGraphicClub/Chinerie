@@ -1,4 +1,4 @@
-const maxPostParser = 20;
+const maxPostParser = 10;
 
 const jsonData = [];
 
@@ -61,8 +61,9 @@ let postParsedCounter = 0;
 const postParserInterval = window.setInterval(function() {
 
   const postData = {};
+  postData.postDate = {};
 
-  var elements = document.querySelectorAll('.mtm, ._3n1k, .userContent, ._3dlh');
+  var elements = document.querySelectorAll('.mtm, ._3n1k, .userContent, ._3dlh, ._5pcq');
   for (var i = 0; i < elements.length; i++) {
     var element_coordinate = elements[i].getBoundingClientRect();
   if (((element_coordinate.top < 800) && (element_coordinate.top > 0)) && (!elements[i].hasAttribute('dead'))) {
@@ -117,6 +118,28 @@ const postParserInterval = window.setInterval(function() {
         postData.postReact = reaction;
         reaction = [];
       }
+
+      // Get Post Date
+
+      if (elements[i].classList.contains('_5pcq')) {
+        var b = elements[i].getElementsByTagName('abbr');
+        var date = b[0].getAttribute('title');
+        var day = date.substring(0,2);
+        var month = date.substring(3,5);
+        var year = date.substring(6,10);
+        var hour = date.substring(11,13);
+        console.log(day+'/'+month+'/'+year);
+        console.log('hour=' + hour);
+
+
+        postData.postDate.day = day;
+        postData.postDate.month = month;
+        postData.postDate.year = year;
+        postData.postDate.hour = hour;
+        b = [];
+      }
+
+
 
 
 }
