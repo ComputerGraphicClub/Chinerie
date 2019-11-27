@@ -1,0 +1,305 @@
+/* || general styles */
+* {
+  margin: 0;
+  padding: 0;
+
+}
+
+html {
+  font-family: 'helvetica neue', helvetica, arial, sans-serif;
+}
+
+body {
+background-color: cornflowerblue;
+}
+
+h1, h2 {
+  font-family: Helvetica, sans-serif;
+}
+
+/* header styles */
+
+.like {
+  color: black;
+    font-size: 0.8vw!important;
+        font-family: Helvetica, sans-serif;
+
+}
+
+h1 {
+  font-size: 4rem;
+  text-align: center;
+  position: fixed;
+  color: white;
+  display: none;
+}
+
+h4 {
+    font-size: 0.6vw;
+      /* font-family: 'Rock Salt', cursive; */
+      font-family: Helvetica, sans-serif;
+}
+
+.update {
+  font-family: 'Rock Salt', cursive;
+}
+
+header p {
+  font-size: 1.3rem;
+  font-weight: bold;
+  text-align: center;
+  position: fixed;
+  color: white;
+  display: none;
+}
+
+/* section styles */
+
+section article {
+  width: 100%;
+    height: 100vh;
+  display: flex;
+
+}
+
+
+
+.note {
+  display: inline-block;
+ vertical-align: middle;
+ float: none;
+}
+
+.row {
+display: flex!important;
+margin: 0!important;
+}
+
+.col {
+margin: 0!important;
+
+}
+
+@keyframes rotate360 {
+  to { transform: rotate(360deg); }
+}
+.section{
+  height: 100vh;
+}
+.player{
+  cursor: pointer;
+}
+
+.player > .vynilThumbnail {
+  clip-path: circle(17.5vw at center);
+  width: 50vw;
+  height: 100vh;
+}
+
+
+.col.player {
+  /* border-top: 130px solid black;  using a color just for demo. */
+   border-bottom: 130px solid black; /* using a color just for demo. */
+   box-sizing: border-box;
+   background-color: black;
+   transition: all 1.5s ease-in;;
+}
+
+.col{
+    transition: all 1.5s ease-in;
+    background-color: floralwhite;
+  }
+
+.postMessage  {
+background-color: floralwhite;
+z-index: 100;
+text-align: center;
+padding-left: 4vw;
+padding-right: 4vw;
+margin-top: 50vh;
+transform: translateY(-50%);
+}
+
+.logo {
+   background-image: url("../img/CDH_logo.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   width: 5vw;
+   height: 5vw;
+   position: fixed;
+   top: 20px;
+   left: 45.6vw;
+   z-index: 30000;
+}
+
+.logo_cdr {
+   background-image: url("../img/CDR_logo.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   width: 5vw;
+   height: 5vw;
+   position: fixed;
+   top: 20px;
+   left: 45.6vw;
+   z-index: 20000;
+   transition: all 1s ease-in;;
+}
+
+.logo_cdt {
+   background-image: url("../img/CDT_logo.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   width: 5vw;
+   height: 5vw;
+   position: fixed;
+   top: 20px;
+   left: 45.6vw;
+   z-index: 20000;
+   transition: all 1s ease-in;;
+}
+
+.logo_cdo {
+   background-image: url("../img/CDO_logo.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   width: 5vw;
+   height: 5vw;
+   position: fixed;
+   top: 20px;
+   left: 45.6vw;
+   z-index: 20000;
+   transition: all 1s ease-in;;
+}
+
+.logo_rb {
+   background-image: url("../img/RB_logo.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   width: 5vw;
+   height: 5vw;
+   position: fixed;
+   top: 20px;
+   left: 45.6vw;
+   z-index: 19999;
+   transition: all 1s ease-in;;
+}
+
+.timeline {
+  height: 100vh;
+  width: 10vh;
+  position: fixed;
+  left: 45.3vw;
+  top: 12vh;
+  text-align: center;
+  font-size: 2vw;
+  font-weight: 100;
+  letter-spacing: -0.5px;
+  color: white;
+
+
+}
+
+p {
+  top: 30%;
+  font-size: 2vw;
+  font-weight: 100;
+  text-align: center;
+  margin : 20px;
+  color: grey;
+  letter-spacing: -0.5px;
+}
+
+
+
+h2 {
+  font-size: 1.2vw;
+  letter-spacing: -1px;
+  margin-bottom: 5px;
+  text-align: center;
+
+}
+
+h3 {
+  font-size: 0.7vw;
+  letter-spacing: -1px;
+  margin-bottom: 10px;
+  text-align: center;
+  color: black;
+}
+
+a:link {
+  color: black!important;
+}
+
+a {
+  color: black!important;
+}
+
+.gridView {
+  background-image: url("../img/gridView.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  z-index: 19990;
+  display: none;
+}
+
+/* Youtube Video Link  */
+.ytp-title-channel {
+  display: none!important;
+}
+
+/* Broken Link */
+.inputa {
+background-color: black;
+position: absolute;
+top : 65vh;
+height: 4vh;
+width: 16vw;
+margin-left: 32vh;
+color: grey;
+padding: 10px;
+font-family: Helvetica, sans-serif;
+font-size: 1.2vw;
+letter-spacing: -1px;
+border: none;
+border-radius: 20px;
+border: solid 2px white;
+outline: none;
+font-weight: 100;
+}
+
+.inputaButton {
+background-color: white;
+position: absolute;
+top : 70vh;
+height: 4vh;
+width: 16vw;
+margin-left: 32vh;
+color: black;
+
+font-family: Helvetica, sans-serif;
+font-size: 1.2vw;
+letter-spacing: -1px;
+border: none;
+border-radius: 20px;
+border: solid 2px white;
+outline: none;
+}
+
+input.inputaButton:hover {
+  background-color: cornflowerblue;
+  color: white;
+}
+
+input {
+  border-radius: 20px;
+}
