@@ -16,7 +16,13 @@ The information scrapped are :
       "postComment": "Je pose ça là. Déjà sortie depuis 2 mois donc en esperant que ce soit pas un repost. Enjoy 👌!",
       "youtubeID": "zw42bxJqAwQ",
       "urlName": "Stussko - All night long",
-      "postReact": "52"
+      "postReact": "52",
+      "postDate": {
+            "day": "05",
+            "month": "12",
+            "year": "2019",
+            "hour": "10"
+                  }
   }
  ```
 
