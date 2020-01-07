@@ -1,5 +1,7 @@
 # Documentation
 
+This project rethinks the digital access to archive accumulated over the last 5 years of an amateur community that exchanges daily rare or forgotten musical works across social network: Les Chineurs.
+
 ## Archives files
 
 
