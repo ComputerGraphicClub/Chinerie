@@ -12,6 +12,7 @@
     <![endif]-->
   </head>
   <body>
+      <div id="layer_doc"> </div>
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
@@ -38,13 +39,13 @@
         </ul>
         {% endif %}
       </header>
-      <div id="layer_doc">
+    
       <section>
 
       {{ content }}
 
       </section>
-      </div>
+     
       <footer>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
