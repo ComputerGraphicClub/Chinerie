@@ -4,9 +4,11 @@ This project rethinks the digital access to archive accumulated over the last 5 
 
 ## Archives databases
 
-> [Chineurs de House](https://www.facebook.com/groups/chineursdehouse/)
-> Chineurs de techno
->![Mon image](Documentation_files/frontpanel.jpg)
+[Chineurs de House](https://www.facebook.com/groups/chineursdehouse/)
+Created in june 2015 
+12437 musical piece [last update Jan. 2019]
+***
+
 
 
 [Post Title]
