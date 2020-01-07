@@ -6,12 +6,10 @@ This project rethinks the digital access to archive accumulated over the last 5 
 
 1.Chineurs de House
 
-See group [here](https://www.facebook.com/groups/chineursdehouse/)
-
-See database [here](https://www.facebook.com/groups/chineursdehouse/)
-
+See group [here](https://www.facebook.com/groups/chineursdehouse/)<br>
+See database [here](https://www.facebook.com/groups/chineursdehouse/)<br>
 12437 musical piece since june 2015<br>
-[last update 10.01.19]
+&rarr;[last update 10.01.19]
 
 
 
