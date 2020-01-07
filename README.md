@@ -53,7 +53,14 @@ Actual Problem : Comment ne pas enregistrer les post qui ne contient pas les 4 t
  ```
 
 
-## Physical Player Arduino
+## CD
+
+### Bill of material
+
+#### Front panel
+![Mon image](Documentation_files/frontpanel.jpg)
+
+
 
 2. Une the platform to explore and listen the heritage of this living social digging communities 
 -> indew.html
