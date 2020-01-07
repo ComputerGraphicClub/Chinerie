@@ -15,7 +15,7 @@ The information scrapped are :
 
  ```json
   {
-      "postComment": "Je pose ça là. Déjà sortie depuis 2 mois donc en esperant que ce soit pas un repost. Enjoy 👌!",
+      "postComment": "Je pose ça là. Enjoy 👌!",
       "youtubeID": "zw42bxJqAwQ",
       "urlName": "Stussko - All night long",
       "postReact": "52",
