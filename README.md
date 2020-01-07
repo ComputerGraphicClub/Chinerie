@@ -28,3 +28,24 @@ Actual Problem : Comment ne pas enregistrer les post qui ne contient pas les 4 t
 [Chineurs des Origines]
 [Ramen Break]
 
+## Ressources
+
+2. Une the platform to explore and listen the heritage of this living social digging communities 
+-> indew.html
+
+[Chineurs de Rap]
+[Chineurs de House] 
+[Chineurs de Techno]
+[Chineurs des Origines]
+[Ramen Break]
+
+## Physical Player Arduino
+
+2. Une the platform to explore and listen the heritage of this living social digging communities 
+-> indew.html
+
+[Chineurs de Rap]
+[Chineurs de House] 
+[Chineurs de Techno]
+[Chineurs des Origines]
+[Ramen Break]
