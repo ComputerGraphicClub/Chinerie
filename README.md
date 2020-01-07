@@ -30,8 +30,7 @@ Actual Problem : Comment ne pas enregistrer les post qui ne contient pas les 4 t
 
 ## Ressources
 
- ```
- javascript
+ ``` javascript
  var s = "Mise en valeur de la syntaxe JavaScript";
  alert(s);
  ```
