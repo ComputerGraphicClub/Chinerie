@@ -11,7 +11,7 @@ The information scrapped are :
 [Number or like]
 [Post Date]
 
- ``` javascript
+ ```json
   {
       "postComment": "Je pose ça là. Déjà sortie depuis 2 mois donc en esperant que ce soit pas un repost. Enjoy 👌!",
       "youtubeID": "zw42bxJqAwQ",
