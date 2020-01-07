@@ -2,11 +2,13 @@
 
 This project rethinks the digital access to archive accumulated over the last 5 years of an amateur community that exchanges daily rare or forgotten musical works across social network: Les Chineurs.
 
-## Archives files
-![Mon image](img/brokenLink.png)
+## Archives databases
 
-1. Extract informations from one of the 5 facebook' groups by using the script -> facebookPostScrapper.js
-The information scrapped are : 
+> Chineurs de House
+> Chineurs de techno
+>![Mon image](Documentation_files/frontpanel.jpg)
+
+
 [Post Title]
 [Youtube URL]
 [Youtube URL name]
