@@ -38,17 +38,19 @@
         </ul>
         {% endif %}
       </header>
+      <div id="layer_doc">
       <section>
 
       {{ content }}
 
       </section>
+      </div>
       <footer>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         <p>and was created at the <a href="https://www.epfl-ecal-lab.ch/">EPFL+ECAL Lab</a></p>
         {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <p><small>Hosted on GitHub Pages &mdash;</small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
