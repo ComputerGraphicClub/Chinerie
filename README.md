@@ -4,9 +4,10 @@ This project rethinks the digital access to archive accumulated over the last 5 
 
 ## Archives databases
 
-[Chineurs de House](https://www.facebook.com/groups/chineursdehouse/)
-Created in june 2015 . 
-12437 musical piece [last update Jan. 2019]
+Chineurs de House
+See group [here] (https://www.facebook.com/groups/chineursdehouse/)
+See database [here] (https://www.facebook.com/groups/chineursdehouse/)
+12437 musical piece since june 2015 [last update 10.01.19]
 ***
 
 
