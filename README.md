@@ -30,14 +30,12 @@ Actual Problem : Comment ne pas enregistrer les post qui ne contient pas les 4 t
 
 ## Ressources
 
-2. Une the platform to explore and listen the heritage of this living social digging communities 
--> indew.html
+ ```
+ javascript
+ var s = "Mise en valeur de la syntaxe JavaScript";
+ alert(s);
+ ```
 
-[Chineurs de Rap]
-[Chineurs de House] 
-[Chineurs de Techno]
-[Chineurs des Origines]
-[Ramen Break]
 
 ## Physical Player Arduino
 
