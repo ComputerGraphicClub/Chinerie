@@ -10,8 +10,9 @@ See group [here](https://www.facebook.com/groups/chineursdehouse/)
 
 See database [here](https://www.facebook.com/groups/chineursdehouse/)
 
-12437 musical piece since june 2015 [last update 10.01.19]
-***
+12437 musical piece since june 2015<br>
+[last update 10.01.19]
+
 
 
 
