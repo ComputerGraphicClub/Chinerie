@@ -11,6 +11,15 @@ The information scrapped are :
 [Number or like]
 [Post Date]
 
+ ``` javascript
+  {
+      "postComment": "Je pose ça là. Déjà sortie depuis 2 mois donc en esperant que ce soit pas un repost. Enjoy 👌!",
+      "youtubeID": "zw42bxJqAwQ",
+      "urlName": "Stussko - All night long",
+      "postReact": "52"
+  }
+ ```
+
 When scrapping process is done, a Json file is created and downloaded.
 
 Actual Problem : Comment ne pas enregistrer les post qui ne contient pas les 4 types d'informations souhaité ? 
