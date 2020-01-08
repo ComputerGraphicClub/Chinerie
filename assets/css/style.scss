@@ -35,8 +35,11 @@ section {
 }
 
 alert.alert-info {
-    border-radius: 5px;
-    padding: 7px;
-    color: #0c5460;
-    font-size: 13px;
-    background-color: #d1ecf1;
+    border-radius: 5px!important;
+    padding: 7px!important;
+    color: #0c5460!important;
+    font-size: 13px!important;
+    background-color: #d1ecf1!important;
+    border: 1px solid transparent!important;
+    border-radius: .25rem!important;
+    border-color: #bee5eb!important;
