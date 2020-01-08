@@ -9,7 +9,7 @@ This project rethinks the digital access to archive accumulated over the last 5 
 See group [here](https://www.facebook.com/groups/chineursdehouse/)<br>
 See database [here](https://www.facebook.com/groups/chineursdehouse/)<br>
 12437 musical piece since june 2015<br>
-&rarr;[last update 10.01.19]
+<small>&rarr;[last update 10.01.19]</small>
 
 
 
