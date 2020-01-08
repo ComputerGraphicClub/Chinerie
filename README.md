@@ -6,10 +6,26 @@ This project rethinks the digital access to archive accumulated over the last 5 
 
 1.Chineurs de House<br>
 See group [here](https://www.facebook.com/groups/chineursdehouse/)<small>12437 musical piece since june 2015</small><br>
-See database [CDH_database.json](https://www.facebook.com/groups/chineursdehouse/)<small>&rarr;[last update 10.01.19]</small>
+See database [CDH_database.json](https://www.facebook.com/groups/chineursdehouse/)<small>[last update 10.01.19]</small>
+
+2.Chineurs des Origines<br>
+See group [here](https://www.facebook.com/groups/chineursdehouse/)<small>12437 musical piece since june 2015</small><br>
+See database [CDH_database.json](https://www.facebook.com/groups/chineursdehouse/)<small>[last update 10.01.19]</small>
+
+3.Chineurs de Techno<br>
+See group [here](https://www.facebook.com/groups/chineursdehouse/)<small>12437 musical piece since june 2015</small><br>
+See database [CDH_database.json](https://www.facebook.com/groups/chineursdehouse/)<small>[last update 10.01.19]</small>
+
+4.Chineurs de Rap<br>
+See group [here](https://www.facebook.com/groups/chineursdehouse/)<small>12437 musical piece since june 2015</small><br>
+See database [CDH_database.json](https://www.facebook.com/groups/chineursdehouse/)<small>[last update 10.01.19]</small>
+
+5.Ramen Break<br>
+See group [here](https://www.facebook.com/groups/chineursdehouse/)<small>12437 musical piece since june 2015</small><br>
+See database [CDH_database.json](https://www.facebook.com/groups/chineursdehouse/)<small>[last update 10.01.19]</small>
 
 
-
+&rarr;
 
 [Post Title]
 [Youtube URL]
