@@ -41,8 +41,7 @@ When scrapping process is done, a Json file is created and downloaded.
 
 Actual Problem : Comment ne pas enregistrer les post qui ne contient pas les 4 types d'informations souhaité ? 
 
-ⓘ My important paragraph.
-{: .alert .alert-info}
+ⓘ My important paragraph.{: .alert .alert-info}
 
 
 ## Online platform
