@@ -4,12 +4,9 @@ This project rethinks the digital access to archive accumulated over the last 5 
 
 ## Archives databases
 
-1.Chineurs de House
-
-See group [here](https://www.facebook.com/groups/chineursdehouse/)<br>
-See database [here](https://www.facebook.com/groups/chineursdehouse/)<br>
-12437 musical piece since june 2015<br>
-<small>&rarr;[last update 10.01.19]</small>
+1.Chineurs de House<br>
+See group [here](https://www.facebook.com/groups/chineursdehouse/)<small>12437 musical piece since june 2015</small><br>
+See database [CDH_database.json](https://www.facebook.com/groups/chineursdehouse/)<small>&rarr;[last update 10.01.19]</small>
 
 
 
