@@ -41,6 +41,21 @@ When scrapping process is done, a Json file is created and downloaded.
 
 Actual Problem : Comment ne pas enregistrer les post qui ne contient pas les 4 types d'informations souhaité ? 
 
+> [!NOTE]
+> Information the user should notice even if skimming.
+
+> [!TIP]
+> Optional information to help a user be more successful.
+
+> [!IMPORTANT]
+> Essential information required for user success.
+
+> [!CAUTION]
+> Negative potential consequences of an action.
+
+> [!WARNING]
+> Dangerous certain consequences of an action.
+
 
 ## Online platform
 
