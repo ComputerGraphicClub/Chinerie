@@ -22,11 +22,7 @@ See database [CDH_database.json](https://www.facebook.com/groups/chineursdehouse
 
 &rarr;
 
-[Post Title]
-[Youtube URL]
-[Youtube URL name]
-[Number or like]
-[Post Date]
+#### Database variables
 
  ```json
   {
