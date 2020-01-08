@@ -20,8 +20,6 @@ Chineurs de Ramen Break <small>Aprox. 12437 musical piece since june 2015</small
 See database [CDH_database.json](https://www.facebook.com/groups/chineursdehouse/) <small>[last update 10.01.19]</small>
 
 
-&rarr;
-
 #### Database variables
 
  ```json
@@ -48,7 +46,8 @@ Actual Problem : Comment ne pas enregistrer les post qui ne contient pas les 4 t
 
 
 2. Une the platform to explore and listen the heritage of this living social digging communities 
--> indew.html
+
+&rarr;indew.html
 
 [Chineurs de Rap]
 [Chineurs de House] 
