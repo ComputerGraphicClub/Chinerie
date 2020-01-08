@@ -37,11 +37,10 @@ See database [CDH_database.json](https://www.facebook.com/groups/chineursdehouse
   }
  ```
 
-When scrapping process is done, a Json file is created and downloaded.
 
-Actual Problem : Comment ne pas enregistrer les post qui ne contient pas les 4 types d'informations souhaité ? 
 
-ⓘ My important paragraph.{: .alert .alert-info}
+**ⓘ Notes:** When scrapping process is done, a Json file is created and downloaded.
+{: .alert .alert-info}
 
 
 ## Online platform
